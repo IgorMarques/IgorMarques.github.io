@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Ikaros';
+    src: url('css/Ikaros.otf'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.avatar{
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+  border: 2px solid #d0cdcd;
+}
+
+h1{
+  color: rgb(63, 147, 255);
+  font-family: 'Ikaros';
+  font-size: 5em
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: #9a9898;
+}
+
+a{
+  color: rgb(63, 147, 255);
+}
+
+h2, h3, h4{
+  color: rgb(133, 133, 133);
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.8em;
+}
+
+h3{
+  font-size: 1.6em;
+}
+
+h4{
+  font-size: 1.2em;
+}
+
+h2, h3{
+  font-weight: 100;
+}
+
+.passions{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.passion{
+  width: 85px;
+}
+
+.myLine{
+  border: 1px solid #d0cdcd;
+}
+
+.topLine{
+  margin-top: 35px;
+}
+
+i{
+  color: #000
+}
+
+.so{
+  padding-bottom: 4px
+}
+
+.mail{
+  color: #9a9898;
+}
+
+.location{
+  margin-top: -20px;
+}
