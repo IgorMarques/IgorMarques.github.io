@@ -1,23 +1,9 @@
-@font-face {
-  font-family: "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  letter-spacing: 0.02em;
-}
-
-
-.avatar{
-  border-radius: 100px;
-  height: 200px;
-  width: 200px;
-  margin-top: 50px;
-  border: 2px solid #d0cdcd;
-}
-
 h1{
-  color: rgb(63, 147, 255);
+  color: #a94cc5;
   font-weight: 700;
-  font-size: 5em;
+  font-size: 3em;
+  text-transform: uppercase;
+  padding-top: 2em;
 }
 
 p{
@@ -25,9 +11,17 @@ p{
 }
 
 a{
-  color: rgb(63, 147, 255);
+  color: #a94cc5;
 }
 
 .mail{
   color: #9a9898;
+}
+
+body{
+  text-align: center;
+  font-family: system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.02em;
 }
